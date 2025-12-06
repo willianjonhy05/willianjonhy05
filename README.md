@@ -50,7 +50,6 @@ Controle de movimentações, componentes reutilizáveis e persistência local.
 
 HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 
-> *(Substitua pelos projetos reais do seu perfil caso prefira.)*
 
 ---
 
@@ -58,7 +57,8 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=willianjonhy05&show_icons=true&theme=dark&count_private=true)](https://github.com/willianjonhy05)
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willianjonhy05&theme=github_dark)
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willianjonhy05&layout=compact&theme=dark)](https://github.com/willianjonhy05)
 
