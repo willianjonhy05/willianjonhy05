@@ -53,9 +53,6 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
-
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
@@ -63,7 +60,7 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willianjonhy05&theme=github_dark)
 
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME&theme=dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianjonhy05&theme=dark)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=willianjonhy05&theme=dark)](https://git.io/streak-stats)
