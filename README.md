@@ -58,11 +58,11 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 
 <div align="center">
 
-![Status](https://github-readme-stats.vercel.app/api?username=william\&show_icons=true\&theme=dark\&count_private=true)
+![Status](https://github-readme-stats.vercel.app/api?username=willianjonhy05\&show_icons=true\&theme=dark\&count_private=true)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=william\&layout=compact\&theme=dark)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=willianjonhy05\&layout=compact\&theme=dark)
 
-![Streak](https://streak-stats.demolab.com?user=william\&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=willianjonhy05\&theme=dark)
 
 </div>
 
