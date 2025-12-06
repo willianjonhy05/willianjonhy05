@@ -60,8 +60,6 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willianjonhy05&theme=github_dark)
 
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianjonhy05&theme=dark)
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=willianjonhy05&theme=dark)](https://git.io/streak-stats)
 
@@ -74,6 +72,8 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 <div>
   <a href="mailto:willianjohny05@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/johny-william-326854116/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="twitter.com/euwilliamsousa"><img src="https://img.shields.io/badge/Twitter-333?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/euwilliamsousa"><img src="https://img.shields.io/badge/instagram-333?style=for-the-badge&logo=instagram&logoColor=purple"/></a>
 </div>
 
 ---
