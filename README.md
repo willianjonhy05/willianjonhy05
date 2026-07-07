@@ -66,6 +66,20 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=willianjonhy05&theme=dark)](https://git.io/streak-stats)
 
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willianjonhy05&theme=gotham" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=davialves1820&theme=gotham&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=willianjonhy05&theme=gotham" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willianjonhy05&theme=gotham" />
+</p>
+
 </div>
 
 ---
