@@ -58,14 +58,6 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 
 ## 📊 Minhas estatísticas no GitHub
 
-<div align="center">
-
-![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willianjonhy05&theme=github_dark)
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=willianjonhy05&theme=dark)](https://git.io/streak-stats)
-
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willianjonhy05&theme=gotham" />
@@ -80,7 +72,7 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willianjonhy05&theme=gotham" />
 </p>
 
-</div>
+
 
 ---
 
