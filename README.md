@@ -23,7 +23,7 @@ Sou **Comunicador Social** e **Desenvolvedor Web**, apaixonado por transformar i
 ### 🗄️ Banco de Dados & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,powershell,netlify,docker,nginx,linux,jquery,git,github,vscode,vercel,githubactions,insomnia,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,powershell,netlify,docker,nginx,linux,jquery,git,github,vscode,vercel,githubactions,postman&theme=dark" />
 </p>
 
 
