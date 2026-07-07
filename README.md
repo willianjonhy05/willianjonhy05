@@ -5,21 +5,28 @@ Sou **Comunicador Social** e **Desenvolvedor Web**, apaixonado por transformar i
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-</div>
+## 🛠️ Tech Stack
+
+### 🚀 Linguagens
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,ts,py,sqlite&theme=dark" />
+</p>
+
+### ⚙️ Frameworks & Bibliotecas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,django,wordpress,vite&theme=dark" />
+</p>
+
+### 🗄️ Banco de Dados & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,powershell,netlify,docker,nginx,linux,jquery,git,github,vscode,vercel,githubactions,insomnia,postman&theme=dark" />
+</p>
+
+
 
 ---
 
