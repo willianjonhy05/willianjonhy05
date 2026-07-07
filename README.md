@@ -60,15 +60,15 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 
 
 <p align="center">
-  <img width="10%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willianjonhy05&theme=gotham" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willianjonhy05&theme=gotham" />
   
 </p>
 
 <p align="center">
-<img width="49%" src="https://streak-stats.demolab.com?user=davialves1820&theme=gotham&hide_border=true" />
+<img width="90%" src="https://streak-stats.demolab.com?user=davialves1820&theme=gotham&hide_border=true" />
 </p>
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=willianjonhy05&theme=gotham" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=willianjonhy05&theme=gotham" />
 </p>
 
 <p align="center">
