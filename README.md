@@ -17,7 +17,7 @@ Sou **Comunicador Social** e **Desenvolvedor Web**, apaixonado por transformar i
 ### ⚙️ Frameworks & Bibliotecas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,django,flask,wordpress,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,supabase,nodejs,django,flask,wordpress,vite&theme=dark" />
 </p>
 
 ### 🗄️ Banco de Dados & Ferramentas
